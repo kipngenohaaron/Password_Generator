@@ -38,3 +38,4 @@ This script is open-source and available under the [MIT License](LICENSE).
 ## Author
 - [Kipngenoh A. Rotich](https://github.com/kipngenohaaron)
 - [0724828197](kipngenohaaron@gmail.com)
+https://github.com/kipngenohaaron/Password_Generator.git
