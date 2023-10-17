@@ -38,3 +38,18 @@ for pwd in range(num_passwords):
     for c in range(lengthPasswords):
         password += random.choice(characters)
     print(password)
+
+    Example
+# python Password_Generator.py 
+# Welcome to our password generator app!
+
+
+# Enter your preferred characters to make a password: kipngenohaaron
+# How many passwords would you like to be generated: 5
+# Enter the length of the password you would wish to have: 6
+# Here are your passwords: 
+# enpnek
+# kehhai
+# roapni
+# nhagok
+# pnnrgk
